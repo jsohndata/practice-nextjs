@@ -24,3 +24,21 @@ this? `Yes`
 ### Deply
 `firebase deploy`
 Note: No need to `npm run build`
+
+
+
+# TailWind
+
+Color:
+[tailwindcss.com/docs/customizing-colors](https://tailwindcss.com/docs/customizing-colors)
+
+
+## VSCode Ext
+* Tailwind CSS IntelliSense
+
+<br>
+
+## TW Component
+* [hyperui.dev](https://www.hyperui.dev/)
+* [tailwind-kit.com](https://www.tailwind-kit.com/)
+* [tailblocks.cc](https://tailblocks.cc/)
